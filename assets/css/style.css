@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+
+#hero-section {
+    background-image: url("../img/hero.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+
+}
+
+#hero-section p{
+    font-size: 1.6em;
+    color: rgba(167, 167, 34, 0.836);
+}
+
+#about-me-texto{
+    float: left;
+    
+}
+#yo img{
+    width: 25em;
+    border-radius: 50%;
+}
+
+.html-logo{
+    width: 110px;
+
+}
+ 
+.css-logo{
+    width: 100px;
+}
+
+.js-logo{
+    width: 140px;
+}
+
+.react-logo{
+    width: 100px;
+}
